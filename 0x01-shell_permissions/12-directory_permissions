@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir –m751 my_dir
+mkdir my_dir
+chmod +rwx my_dir
